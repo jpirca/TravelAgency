@@ -1,0 +1,50 @@
+<!--
+			<div class="w3-row-padding w3-padding-16 w3-center" id="food">
+				<div class="w3-third">
+					<a href="detailsDest.php?dest=1" class="mainRef">
+						<img src="images/caracas.jpg" alt="Sandwich" style="width:100%">
+						<h3>Caracas</h3>
+						<p>The capital, a city surround by a green mountain</p>
+					</a>
+				</div>
+				<div class="w3-third">
+					<a href="detailsDest.php?dest=1" class="mainRef">
+						<img src="images/amazonas.jpg" alt="Amazonas" style="width:100%">
+						<h3>Amazonas</h3>
+						<p>The forest. Peace and relaxing place</p>
+					</a>
+				</div>
+				<div class="w3-third">
+					<a href="detailsDest.php?dest=1" class="mainRef">
+						<img src="images/roques.jpg" alt="Los Roques" style="width:100%">
+						<h3>Los Roques</h3>
+						<p>A paradise, many kind of blues and sun</p>
+					</a>
+				</div>
+			</div>
+		
+			
+			<div class="w3-row-padding w3-padding-16 w3-center">
+				<div class="w3-third">
+					<a href="detailsDest.php?dest=1" class="mainRef">
+						<img src="images/picobolivar.jpg" alt="Pico Bolivar" style="width:100%">
+						<h3>Pico Bolivar</h3>
+						<p>The highest peak. Cold and marvelous</p>
+					</a>
+				</div>
+				<div class="w3-third">
+					<a href="detailsDest.php?dest=1" class="mainRef">
+						<img src="images/morrocoy.jpeg" alt="Morrocy" style="width:100%">
+						<h3>Morrocoy</h3>
+						<p>Beaches. So many islands, fun and party</p>
+					</a>
+				</div>
+				<div class="w3-third">
+					<a href="detailsDest.php?dest=1" class="mainRef">
+						<img src="images/medanos.jpg" alt="Los Medanos" style="width:100%">
+						<h3>Los Medanos</h3>
+						<p>Yesss, there is a DESERT too</p>
+					</a>
+				</div>
+			</div>
+			-->
